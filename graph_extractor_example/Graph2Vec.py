@@ -3,6 +3,7 @@ import json
 import numpy as np
 from vec2onehot import vec2onehot
 
+
 """
 S, W, C features: Node features + Edge features + Var features;
 Node self property + Incoming Var + Outgoing Var + Incoming Edge + Outgoing Edge
